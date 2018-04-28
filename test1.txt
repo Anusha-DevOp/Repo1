@@ -1,0 +1,10 @@
+ Volume in drive D is LENOVO
+ Volume Serial Number is CCD9-0E19
+
+ Directory of D:\DevOps\GIT\MyProject
+
+04/28/2018  10:40 PM    <DIR>          .
+04/28/2018  10:40 PM    <DIR>          ..
+04/28/2018  10:40 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   8,273,895,424 bytes free
